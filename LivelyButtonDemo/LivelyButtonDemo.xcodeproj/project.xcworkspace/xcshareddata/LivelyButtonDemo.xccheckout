@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91F2A43B-437B-4A80-B8AC-8DF3FD2A61F4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LivelyButtonDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>834011C228D4AD5304768FD18F08A473BE144256</key>
+		<string>https://github.com/atbj505/SILK-S-iOS.git</string>
+		<key>F3B4FF97D306DFC43D84B68C22328EBAD83595AC</key>
+		<string>github.com:atbj505/LivelyButtonDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LivelyButtonDemo/LivelyButtonDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>834011C228D4AD5304768FD18F08A473BE144256</key>
+		<string>../../../..</string>
+		<key>F3B4FF97D306DFC43D84B68C22328EBAD83595AC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:atbj505/LivelyButtonDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3B4FF97D306DFC43D84B68C22328EBAD83595AC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>834011C228D4AD5304768FD18F08A473BE144256</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3B4FF97D306DFC43D84B68C22328EBAD83595AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LivelyButtonDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
